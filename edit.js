@@ -15,5 +15,5 @@ function div(first, second) {
 }
 
 function is_even(number) {
-  return first % second == 0;
+  return number % 2 == 0;
 }
